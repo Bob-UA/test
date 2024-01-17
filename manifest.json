@@ -1,0 +1,6 @@
+{
+  "short_name": "auto-adverts",
+  "name": "The front-end auto-adverts",
+  "start_url": ".",
+  "display": "standalone"
+}
